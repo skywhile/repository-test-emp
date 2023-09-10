@@ -3,6 +3,7 @@ package com.project;
 import java.util.Scanner;
 
 public class PasswordManager {
+    //随意添加一行注释
 
     private static final int OFFSET = 3;
 
